@@ -1,0 +1,2 @@
+
+      Readln(V.ProdsComprados);
